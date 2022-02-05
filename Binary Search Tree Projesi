@@ -1,0 +1,6 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+root [4,5] dir
+sağında [6] solunda [3] bulunur
+[6] nın referansı sağ tarafında [7], [7] nin referansı sağ tarafında [8], [8] in referansı sağ tarafında [9] dur
+[3] ün referansı sol tarafında [2], [2] nin referansı sol tarafında [1], [1] in referansı sol tarafında [0] dır.
